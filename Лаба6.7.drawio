@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Страница-1" id="ur2E3puBC9EvtnhdVVCH">
+    <mxGraphModel dx="872" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FdcVi_dDeXJNQ-KH7yNz-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Начало" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FdcVi_dDeXJNQ-KH7yNz-7" edge="1" parent="1" source="FdcVi_dDeXJNQ-KH7yNz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="FdcVi_dDeXJNQ-KH7yNz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdcVi_dDeXJNQ-KH7yNz-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ввод целого&amp;nbsp;&lt;div&gt;числа N (N&amp;gt;0)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FdcVi_dDeXJNQ-KH7yNz-8" edge="1" parent="1" source="FdcVi_dDeXJNQ-KH7yNz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FdcVi_dDeXJNQ-KH7yNz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FdcVi_dDeXJNQ-KH7yNz-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Цикл: пока i&amp;lt;=N&lt;div&gt;Вычисление:&amp;nbsp;&lt;/div&gt;&lt;div&gt;sum=sum+1.0/i&lt;/div&gt;&lt;div&gt;Увеличение счетчика:&lt;/div&gt;&lt;div&gt;i=i+1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="260" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="FdcVi_dDeXJNQ-KH7yNz-4" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="sum" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="FdcVi_dDeXJNQ-KH7yNz-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Конец" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="FdcVi_dDeXJNQ-KH7yNz-6" edge="1" parent="1" source="FdcVi_dDeXJNQ-KH7yNz-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FdcVi_dDeXJNQ-KH7yNz-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FdcVi_dDeXJNQ-KH7yNz-9" edge="1" parent="1" source="FdcVi_dDeXJNQ-KH7yNz-4" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;" target="FdcVi_dDeXJNQ-KH7yNz-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="510" as="sourcePoint" />
+            <mxPoint x="440" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
