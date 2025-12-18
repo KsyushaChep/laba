@@ -1,0 +1,149 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Страница-1" id="3CpmB5mzpm8P1Ce0kAsJ">
+    <mxGraphModel dx="872" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NN3CB-VivMIF_jroVjHs-20" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Начало" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="-1160" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-21" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ввод N,&amp;nbsp;&lt;div&gt;массива A&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="-1110" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-22" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ввод K и L" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="-1030" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-23" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-24" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="(1&amp;lt;K&amp;lt;=L&amp;lt;=N)?" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="-950" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-40" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-5" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Ошибка" vertex="1">
+          <mxGeometry height="80" width="120" x="430" y="-950" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-25" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sum=0, count=0" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="-850" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-26" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="i=0 (начало цикла)" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="-770" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-27" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-28" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="i&amp;lt;N?" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-29" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-30" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="-300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="i&amp;lt;K-1 ИЛИ i&amp;gt;L-1?" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="-590" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-32" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sum=sum+A[i]" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="-490" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-33" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="count=count+1" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="-410" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-34" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="i++" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="-330" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-35" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="NN3CB-VivMIF_jroVjHs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-38" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="count&amp;gt;0?" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-39" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-16" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="нет элементов" vertex="1">
+          <mxGeometry height="80" width="120" x="440" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-36" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="average=sum/count" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-37" edge="1" parent="1" source="NN3CB-VivMIF_jroVjHs-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-18" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="average" vertex="1">
+          <mxGeometry height="80" width="120" x="440" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Конец" vertex="1">
+          <mxGeometry height="80" width="120" x="650" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NN3CB-VivMIF_jroVjHs-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="460" y="-300" as="sourcePoint" />
+            <mxPoint x="440" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="нет" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="-680" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="нет" vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="-590" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="да" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="-620" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="да" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="-520" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="нет" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="NN3CB-VivMIF_jroVjHs-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="да" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="-180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
