@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Страница-1" id="ROCX7EuS6RjKsvveKPQ9">
+    <mxGraphModel dx="872" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-12" edge="1" parent="1" source="WfSYQ5pxRV6B1AiZwY1n-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WfSYQ5pxRV6B1AiZwY1n-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Начало" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-13" edge="1" parent="1" source="WfSYQ5pxRV6B1AiZwY1n-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WfSYQ5pxRV6B1AiZwY1n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; text-wrap: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;Ввод A, B (вещественные)&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-14" edge="1" parent="1" source="WfSYQ5pxRV6B1AiZwY1n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WfSYQ5pxRV6B1AiZwY1n-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; text-wrap: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;Ввод N1, N2, N3 (целые)&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-15" edge="1" parent="1" source="WfSYQ5pxRV6B1AiZwY1n-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WfSYQ5pxRV6B1AiZwY1n-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;pre style=&quot;font-family: var(--ds-font-family-code); margin: 0px !important; overflow: auto; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: ; font-variant-east-asian: ; font-variant-alternates: ; font-variant-position: ; font-weight: 400; font-stretch: ; font-size: ; line-height: ; font-optical-sizing: ; font-size-adjust: ; font-kerning: ; font-feature-settings: ; font-variation-settings: ; white-space: pre-wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Вызов Calc(A, B, N1)&lt;/pre&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-16" edge="1" parent="1" source="WfSYQ5pxRV6B1AiZwY1n-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WfSYQ5pxRV6B1AiZwY1n-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; white-space: pre-wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px !important;&quot;&gt;Оператор выбора (switch) по Op:     Если Op=1: вернуть A - B                   Если Op=2: вернуть A * B                      Если Op=3: вернуть A / B                                 Иначе: вернуть A + B&lt;/pre&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="220" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-6" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Результат&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: var(--ds-font-family-code); text-align: start; background-color: transparent;&quot;&gt;Вывод результата для N1&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-17" edge="1" parent="1" source="WfSYQ5pxRV6B1AiZwY1n-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WfSYQ5pxRV6B1AiZwY1n-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; text-wrap: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;Вызов Calc(A, B, N2)&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-8" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&#xa;&lt;pre style=&quot;font-family: var(--ds-font-family-code); margin: 0px !important; overflow: auto; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: ; font-variant-east-asian: ; font-variant-alternates: ; font-variant-position: ; font-weight: 400; font-stretch: ; font-size: ; line-height: ; font-optical-sizing: ; font-size-adjust: ; font-kerning: ; font-feature-settings: ; font-variation-settings: ; white-space: pre-wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Вывод результата для N2&lt;/pre&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-18" edge="1" parent="1" source="WfSYQ5pxRV6B1AiZwY1n-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WfSYQ5pxRV6B1AiZwY1n-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;pre style=&quot;font-family: var(--ds-font-family-code); margin: 0px !important; overflow: auto; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: ; font-variant-east-asian: ; font-variant-alternates: ; font-variant-position: ; font-weight: 400; font-stretch: ; font-size: ; line-height: ; font-optical-sizing: ; font-size-adjust: ; font-kerning: ; font-feature-settings: ; font-variation-settings: ; white-space: pre-wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Вызов Calc(A, B, N3)&lt;/pre&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-10" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&#xa;&lt;pre style=&quot;font-family: var(--ds-font-family-code); margin: 0px !important; overflow: auto; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: ; font-variant-east-asian: ; font-variant-alternates: ; font-variant-position: ; font-weight: 400; font-stretch: ; font-size: ; line-height: ; font-optical-sizing: ; font-size-adjust: ; font-kerning: ; font-feature-settings: ; font-variation-settings: ; white-space: pre-wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Вывод результата для N3&lt;/pre&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Конец" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-19" edge="1" parent="1" source="WfSYQ5pxRV6B1AiZwY1n-8" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WfSYQ5pxRV6B1AiZwY1n-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="960" as="sourcePoint" />
+            <mxPoint x="440" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-20" edge="1" parent="1" source="WfSYQ5pxRV6B1AiZwY1n-10" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.85;exitDx=0;exitDy=0;exitPerimeter=0;" target="WfSYQ5pxRV6B1AiZwY1n-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="960" as="sourcePoint" />
+            <mxPoint x="440" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WfSYQ5pxRV6B1AiZwY1n-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WfSYQ5pxRV6B1AiZwY1n-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="590" as="sourcePoint" />
+            <mxPoint x="440" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
